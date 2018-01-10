@@ -1,3 +1,11 @@
-# test {#test}
+# 概述 {#test}
 
-This file serves as your book&#039;s preface, a great place to describe your book&#039;s content and ideas.
+查询员工绩效，操作部员工可以对自己的绩效信息进行查询操作，也可以查询单个运单的绩效详情。
+
+#### 开始查询：
+
+获取员工绩效的方法如下：  
+1、进入内部APP，在“操作专用” — “绩效查询”开启“API接口同步”  
+  
+
+
