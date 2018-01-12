@@ -10,13 +10,9 @@
 
 ##### （2）内部信息流通
 
-[晨会视频](/chen-hui-shi-pin.md)
+
 
 ##### （3）人事和资产管理
-
-[考勤查询](/kao-qin-cha-xun.md)
-
-[绩效查询](/ji-xiao-cha-xun.md)
 
 
 
