@@ -8,6 +8,7 @@
   * [晨会视频](chen-hui-shi-pin.md)
     * [录制及上传晨会视频](chen-hui-shi-pin/shang-chuan-chen-hui-shi-pin.md)
     * [查询上传记录](chen-hui-shi-pin/cha-xun-shi-pin-shang-chuan-ji-lu.md)
+  * [违禁品查询](wei-jin-pin-cha-xun.md)
 * [人事管理](ren-shi-guan-li.md)
   * [考勤查询](kao-qin-cha-xun.md)
     * [查询打卡记录](kao-qin-cha-xun/da-qia-cha-xun.md)
