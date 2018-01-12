@@ -13,15 +13,14 @@
   * [考勤查询](kao-qin-cha-xun.md)
     * [查询打卡记录](kao-qin-cha-xun/da-qia-cha-xun.md)
     * [查询排班详情](kao-qin-cha-xun/pai-ban-cha-xun.md)
+  * [考勤查询](kao-qin-cha-xun.md)
+    * [查询打卡记录](kao-qin-cha-xun/da-qia-cha-xun.md)
+    * [查询排班详情](kao-qin-cha-xun/pai-ban-cha-xun.md)
 * [资产管理](zi-chan-guan-li.md)
-  * 测试
-* [我的资产](wo-de-zi-chan.md)
-* [资产交接](zi-chan-jiao-jie.md)
+  * [我的资产](wo-de-zi-chan.md)
+  * [资产交接](zi-chan-jiao-jie.md)
 * [业务流程处理](ye-wu-liu-cheng-chu-li.md)
   * 测试
 * [其他支撑业务](qi-ta-zhi-cheng-ye-wu.md)
   * 测试
-* [考勤查询](kao-qin-cha-xun.md)
-  * [查询打卡记录](kao-qin-cha-xun/da-qia-cha-xun.md)
-  * [查询排班详情](kao-qin-cha-xun/pai-ban-cha-xun.md)
 
